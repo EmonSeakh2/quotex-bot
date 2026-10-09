@@ -4,4 +4,4 @@ requests
 pytz
 yfinance
 pandas
-pandas-ta
+numpy
