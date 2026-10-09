@@ -2,3 +2,6 @@ fastapi
 uvicorn
 requests
 pytz
+yfinance
+pandas
+pandas-ta
